@@ -13,6 +13,7 @@
 		B48C753E286D6FFC0050CFFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B48C753C286D6FFC0050CFFA /* Main.storyboard */; };
 		B48C7540286D6FFD0050CFFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B48C753F286D6FFD0050CFFA /* Assets.xcassets */; };
 		B48C7543286D6FFD0050CFFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B48C7541286D6FFD0050CFFA /* LaunchScreen.storyboard */; };
+		B48C754B286D70CE0050CFFA /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48C754A286D70CE0050CFFA /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B48C753F286D6FFD0050CFFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B48C7542286D6FFD0050CFFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B48C7544286D6FFD0050CFFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B48C754A286D70CE0050CFFA /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B48C7536286D6FFC0050CFFA /* AppDelegate.swift */,
 				B48C7538286D6FFC0050CFFA /* SceneDelegate.swift */,
 				B48C753A286D6FFC0050CFFA /* ViewController.swift */,
+				B48C754A286D70CE0050CFFA /* CollectionViewController.swift */,
 				B48C753C286D6FFC0050CFFA /* Main.storyboard */,
 				B48C753F286D6FFD0050CFFA /* Assets.xcassets */,
 				B48C7541286D6FFD0050CFFA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B48C754B286D70CE0050CFFA /* CollectionViewController.swift in Sources */,
 				B48C753B286D6FFC0050CFFA /* ViewController.swift in Sources */,
 				B48C7537286D6FFC0050CFFA /* AppDelegate.swift in Sources */,
 				B48C7539286D6FFC0050CFFA /* SceneDelegate.swift in Sources */,
